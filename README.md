@@ -1,8 +1,8 @@
 #### Software and Mechanical Engineer 
 ##### Interested in Automation , IOT and Data Science 
 
-<div style="display: flex; justify-content: center;">
-<img src = "massa.gif" width = "450px" height="300">
+<div align="center">
+<img src = "massa.gif" width = "450px" height="300px">
 </div>
 
 ```c#
@@ -31,7 +31,7 @@ internal class Experiences
 }
 
 internal class Investing
-  fields_of_interests = ["Embedded Systems","Control Systems","Design and modeling 3D Projects","System Architecture","Robotics"];
+  fields_of_interests = ["Embedded Systems","Control Systems","3D Projects","System Architecture","Robotics"];
   technical_background = ["Linear Control","Backend Systems","System Design","System Architecture", "Design Patterns"];
   hobbies = ["IOT","3D Printer","Swimming","Study"];
 }
