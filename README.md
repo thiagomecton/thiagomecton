@@ -1,7 +1,7 @@
 #### Software and Mechanical Engineer 
 ##### Interested in Automation , IOT and Data Science 
 
-<img src = "massa.gif" width = "800px" height="350" align="middle">
+<img src = "massa.gif" width = "650px" height="350" align="middle">
 
 ```c#
 using System.SoftwareEngineer;
