@@ -36,6 +36,3 @@ internal class Investing
   hobbies = ["IOT","3D Printer","Swimming","Study"];
 }
 ```
-
-
-[![thiagomecton stats](https://github-readme-stats.vercel.app/api?username=thiagomecton)](https://github.com/thiagomecton/github-readme-stats)
